@@ -29,6 +29,7 @@ as the files do not create them themselves, unfortunately you have to help out.
 grab your favorite program and start creating or improving media files!
 
 software suggestions:
+
 * [GIMP](http://www.gimp.org/)
 * [audacity](http://audacity.sourceforge.net/)
 * [blender](http://www.blender.org/)
