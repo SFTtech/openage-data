@@ -10,11 +10,11 @@ microsoft(r) age of empires II (tm) - the age of conquerors
 brought to you by [SFT]Technologies.
 
 
-this repository contains free game data and media files.
+This repository contains free game data and media files.
 
 The project code can be found at <https://github.com/SFTtech/openage>.
 
-data in this repository is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+Data in this repository is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 ![CC-BY-SA](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
