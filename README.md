@@ -1,14 +1,7 @@
 openage data files
 ==================
 
-
-A free (as in freedom) implementation of
-
-microsoft(r) age of empires II (tm) - the age of conquerors
-
-
-brought to you by [SFT]Technologies.
-
+A free (as in freedom) implementation of **Microsoft(r) Age of Empires II (tm) - The Age of Conquerors**, brought to you by [SFT]Technologies.
 
 This repository contains free game data and media files.
 
@@ -20,13 +13,11 @@ Data in this repository is licensed under a [Creative Commons Attribution-ShareA
 
 Code in this repository is licensed under the GNU GPLv3 or later.
 
-
-
 contributing
 ============
 
-As the files do not create them themselves, unfortunately you have to help out.
-grab your favorite program and start creating or improving media files!
+As the files do not create themselves, unfortunately you have to help out.
+Grab your favorite program and start creating or improving media files!
 
 Software suggestions:
 
@@ -38,10 +29,9 @@ Software suggestions:
 contact
 =======
 
-Currently you can use these communication channels to project people:
+Currently you can use these communication channels to contact people:
 
 * **IRC**: #sfttech on freenode.net
 * **XMPP**: openage@chat.sft.mx
-
 
 Cheers, happy creative werking.
