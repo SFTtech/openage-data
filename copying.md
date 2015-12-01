@@ -12,6 +12,7 @@ _the openage authors_ are:
 |-----------------------------|-----------------------------|---------------------------------------|
 | Jonas Jelten                | TheJJ                       | jj@sft.mx                             |
 | Martin Castillo             | castilma                    | castilma@uni-bremen.de                |
+| Elias Hoigstvedt            | CapsAdmin                   | eliashogstvedt@gmail.com              |
 
 If you're a first-time commiter, add yourself to the above list. This is not
 just for legal reasons, but also to keep an overview of all those nicknames.
