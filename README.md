@@ -32,6 +32,5 @@ contact
 Currently you can use these communication channels to contact people:
 
 * **IRC**: #sfttech on freenode.net
-* **XMPP**: openage@chat.sft.mx
 
 Cheers, happy creative werking.
