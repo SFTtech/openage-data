@@ -1,7 +1,7 @@
 openage data files
 ==================
 
-A free (as in freedom) implementation of **Microsoft(r) Age of Empires II (tm) - The Age of Conquerors**, brought to you by [SFT]Technologies.
+A free (as in freedom) implementation of **Microsoft® Age of Empires II™ - The Age of Conquerors**, brought to you by [SFT]Technologies.
 
 This repository contains free game data and media files.
 
@@ -16,14 +16,14 @@ Code in this repository is licensed under the GNU GPLv3 or later.
 contributing
 ============
 
-As the files do not create themselves, unfortunately you have to help out.
+As the files do not create themselves, we'll need your help!
 Grab your favorite program and start creating or improving media files!
 
-Software suggestions:
+Free and Open Source Software suggestions:
 
-* [GIMP](http://www.gimp.org/)
-* [audacity](http://audacity.sourceforge.net/)
-* [blender](http://www.blender.org/)
+* [GIMP](http://www.gimp.org/): for 2d assets
+* [audacity](http://audacity.sourceforge.net/): for audio assets
+* [blender](http://www.blender.org/): for 3d assets
 
 
 contact
