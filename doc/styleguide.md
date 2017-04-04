@@ -68,3 +68,7 @@ Don't worry, you still have a lot of creative freedom!
 * Please don't plagiarize other people's work.
 
 ## Interface
+
+* Buttons should depict their function with an icon. Don't use text on buttons.
+* Buttons that create a unit should always show the upper half of the actual unit model.
+* When drawing an icon, make sure it doesn't blend in with other interface elements. Keep in mind, that different civilizations can have different backgrounds for their Interface
