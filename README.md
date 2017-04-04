@@ -16,15 +16,13 @@ Code in this repository is licensed under the GNU GPLv3 or later.
 contributing
 ============
 
-As the files do not create themselves, we'll need your help!
-Grab your favorite program and start creating or improving media files!
+As the files do not create themselves, we'll need your help! Look at our [style guide](https://github.com/SFTtech/openage-data/doc/styleguide.md), grab your favorite program and start creating or improving media files!
 
 Free and Open Source Software suggestions:
 
 * [GIMP](http://www.gimp.org/): for 2d assets
 * [audacity](http://audacity.sourceforge.net/): for audio assets
 * [blender](http://www.blender.org/): for 3d assets
-
 
 contact
 =======
