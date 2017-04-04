@@ -51,7 +51,7 @@ Don't worry, you still have a lot of creative freedom!
   * attacking
   * dying
   * decaying
-* Try to make animations as short as possible. 
+* Try to make animations as short as possible.
 
 ## Sounds
 
@@ -62,5 +62,9 @@ Don't worry, you still have a lot of creative freedom!
 * Try to minimize repetition in a sound.
 
 ## Music
+
+* We might prefer a soundtrack that is close to the original tunes (e.g. medieval themed songs) but you can do everything you want.
+* If you would like to sing something, go for it. It might not end up as the ingame soundtrack but we will find a use for it.
+* Please don't plagiarize other people's work.
 
 ## Interface
