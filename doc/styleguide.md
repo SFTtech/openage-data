@@ -37,7 +37,21 @@ Don't worry, you still have a lot of creative freedom!
 
 ### Models
 
+* Unit models don't have to be historically accurate.
+* Models should be recognizable and not be too similar to other unit models.
+* Parts of the armor has to be reserved for the player colors. Make sure that all 8 supported colors work with your model.
+* Make sure that the above rules are guaranteed **for every angle** the unit can face.
+
 ### Animations
+
+* Attack animations should be clearly visible **from every angle** the unit can face.
+* You should provide the following animations for each unit:
+  * idle
+  * walking
+  * attacking
+  * dying
+  * decaying
+* Try to make animations as short as possible. 
 
 ## Sounds
 
