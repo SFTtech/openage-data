@@ -4,7 +4,7 @@ Please adhere to this guide if you want to contribute any assets to the project.
 
 ## Why you should follow this guide
 
-Game assets usually have a purpose beyond looking pretty. They are also visual aides to the player, helping them to achieve what they want. Players might admire your pretty graphic asset at first but in a tense multiplayer battle there will be no time for that. Therefore, your assets should not only be nicely drawn but also recognizable, functional and fitting for the players' needs.
+Game assets usually have a purpose beyond looking pretty. They are also visual aides to the player, helping them to achieve what they want. Players might admire your shiny graphic asset at first but in a tense multiplayer battle there will be no time for that. Therefore, your assets should not only be nicely drawn but also recognizable, functional and fitting for players' needs.
 
 Don't worry, you still have a lot of creative freedom!
 
@@ -13,11 +13,11 @@ Don't worry, you still have a lot of creative freedom!
 ### Civ architecture
 
 * Building sprites should use the architecture of their civilization.
-* Keep in mind that every architecture requires three building sprites for some buildings. One for Feudal, Castle and Imperial Age.
+* Keep in mind that every architecture requires building sprites for Feudal, Castle and Imperial Age for some buildings.
 
 ### Shape
 
-* Most buildings have unique shape (Examples will be provided soon) that is consistent throughout civilization arcitectures. Try to follow that shape, when you create your building from scratch.
+* Most buildings have unique shape (Examples to be done) that is consistent throughout civilization architectures. Try to follow that shape, when you create a building from scratch.
 * You don't have to follow the exact shape for every architecture. As a rule of thumb: The more a player frequents a building, the closer it should follow its unique shape. Examples are below.
   * High frequency: Town center, barracks, archery range, stable
   * Medium frequency: Market, mill, lumber/mining camp
@@ -26,12 +26,12 @@ Don't worry, you still have a lot of creative freedom!
 
 ### Size
 
-* Building sprites should neither exceed their foundations nor be smaller than them. Otherwise players who use buildings to wall of their base will get confused whether there are holes in their defense or not.
+* Building sprites should neither exceed their foundations nor be smaller than them. Otherwise players who use buildings to wall off their base will get confused whether there are holes in their defense.
 
 ### Colors
 
 * Building sprites should have markings that can be used for the player colors. They shouldn't dominate the building but also shouldn't be too subtle.
-* Make sure that all 8 supported player colors will be visible on the markings. They shouldn't blend in with the building.
+* Make sure that all 8 supported player colors will be visible on the markings. None of them should blend in with the building.
 
 ## Units
 
@@ -39,19 +39,19 @@ Don't worry, you still have a lot of creative freedom!
 
 * Unit models don't have to be historically accurate.
 * Models should be recognizable and not be too similar to other unit models.
-* Parts of the armor has to be reserved for the player colors. Make sure that all 8 supported colors work with your model.
-* Make sure that the above rules are guaranteed **for every angle** the unit can face.
+* Parts of the armor have to be reserved for the player colors. Make sure that all 8 supported colors work with your model.
+* Also make sure that the above rules are guaranteed **for every direction** the unit can face.
 
 ### Animations
 
-* Attack animations should be clearly visible **from every angle** the unit can face.
+* Attack animations should be clearly visible **for every direction** the unit can face.
 * You should provide the following animations for each unit:
   * idle
   * walking
   * attacking
   * dying
   * decaying
-* Try to make animations as short as possible.
+* Try to fit the length of an animation to the units attack speed.
 
 ## Sounds
 
@@ -63,8 +63,8 @@ Don't worry, you still have a lot of creative freedom!
 
 ## Music
 
-* We might prefer a soundtrack that is close to the original tunes (e.g. medieval themed songs) but you can do everything you want.
-* If you would like to sing something, go for it. It might not end up as the ingame soundtrack but we will find a use for it.
+* We may prefer a soundtrack that is close to the original tunes (e.g. medieval themed songs) but you can do everything you want.
+* If you would like to sing something, go for it! It might not end up as the ingame soundtrack but we will find a use for it.
 * Please don't plagiarize other people's work.
 
 ## Interface
