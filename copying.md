@@ -10,12 +10,12 @@ under the [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) or later.
 
 _the openage authors_ are:
 
-| Full name                   | aliases                     | E-Mail                                |
-|-----------------------------|-----------------------------|---------------------------------------|
-| Jonas Jelten                | TheJJ                       | jj@sft.mx                             |
-| Martin Castillo             | castilma                    | castilma@uni-bremen.de                |
-| Elias Hoigstvedt            | CapsAdmin                   | eliashogstvedt@gmail.com              |
-| Wilco Kusee                 | detrumi                     | wilcokusee@gmail.com                  |
+| Full name                      | aliases                      | E-Mail                                        |
+|--------------------------------|------------------------------|-----------------------------------------------|
+| Jonas Jelten                   | TheJJ                        | jj à sft dawt mx                              |
+| Martin Castillo                | castilma                     | castilma à uni-bremen dawt de                 |
+| Elias Hoigstvedt               | CapsAdmin                    | eliashogstvedt à gmail dawt com               |
+| Wilco Kusee                    | detrumi                      | wilcokusee à gmail dawt com                   |
 
 
 If you're a first-time commiter, add yourself to the above list. This is not
