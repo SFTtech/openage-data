@@ -1,7 +1,7 @@
 openage data files
 ==================
 
-This repo contains the free assets for running [openage](https://github.com/SFTtech/openage).
+This repo contains the free assets for running [openage](https://github.com/SFTtech/openage). They will eventually replace the sprites and sounds used in Age of Empires I, Age of Empires II and Star Wars: Galactic Battlegrounds.
 
 
 License
@@ -29,21 +29,34 @@ grab your favorite program and start creating or improving media files!
 
 Software suggestions:
 
-* [GIMP](http://www.gimp.org/): for 2d assets
-* [audacity](http://audacity.sourceforge.net/): for audio assets
-* [blender](http://www.blender.org/): for 3d assets
+**2D Assets**
 
+* [Krita](https://krita.org/): great out-of-the-box image manipulation and drawing tool
+* [GIMP](https://www.gimp.org/): swiss army knife of image editing with loads of plugins and extensions available
+* [pillow](https://pillow.readthedocs.io/en/stable/installation.html): image manipulation for python scripts
+
+**3D Assets**
+
+* [blender](https://www.blender.org/): 3D modeling, animating and rendering
+
+**Audio**
+
+* [audacity](https://www.audacityteam.org/): audio editing and recording
+* [Ardour](http://ardour.org/): audio recording, editing and mixing
+* [LMMS](https://lmms.io/): music and soundtrack production (midi only)
+
+You should also check out [our modding repository](https://github.com/SFTtech/openage-modding) for custom tools and scripts.
 
 Contact
 =======
 
-If you have questions, suggestions, encounter any problem,
-please join our Matrix or IRC channel and ask!
+If you have the desire to perform semi-human interaction,
+join our **Matrix** or **IRC** chatroom!
 
-```
-#sfttech:matrix.org
-irc.freenode.net #sfttech
-```
+* [`#sfttech:matrix.org`](https://riot.im/app/#/room/#sfttech:matrix.org)
+* [`irc.freenode.net #sfttech`](https://webchat.freenode.net/?channels=sfttech)
+
+Do not hesitate to ping and insult us, we might not see your message otherwise.
 
 Of course, create [issues](https://github.com/SFTtech/openage-data/issues)
 and [pull requests](https://github.com/SFTtech/openage-data/pulls)
