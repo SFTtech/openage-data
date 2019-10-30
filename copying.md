@@ -16,6 +16,8 @@ _the openage authors_ are:
 | Martin Castillo                | castilma                     | castilma à uni-bremen dawt de                 |
 | Elias Hoigstvedt               | CapsAdmin                    | eliashogstvedt à gmail dawt com               |
 | Wilco Kusee                    | detrumi                      | wilcokusee à gmail dawt com                   |
+| Nicolas Bourjaili              | VktrMzlk                     | nicolasbourjaili à gmail dawt com             |
+| Simon San                      | simonsan                     | simon à systemli dawt org                     |
 
 
 If you're a first-time commiter, add yourself to the above list. This is not
