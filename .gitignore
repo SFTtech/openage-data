@@ -11,3 +11,5 @@ __pycache__
 CMakeFiles
 cmake_install.cmake
 CMakeCache.txt
+data/terrain/.DS_Store
+.DS_Store
